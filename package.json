@@ -1,8 +1,9 @@
 {
   "name": "test_template",
   "version": "1.0.0",
-  "main": "index.mjs",
+  "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "lodash": "^4.17.21"
   }
