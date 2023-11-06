@@ -4,7 +4,7 @@
 
 # 初始化
 
-- 取工程
+- 提取工程
 
 ```bash
 git clone https://github.com/fzfei/testTemp.git
