@@ -34,6 +34,6 @@ export default (data, template) => {
   );
   console.log("data", data);
   const result = $T.compile(template)(data);
-  //console.log("result", result);
+  console.log("result", result);
   return result;
 };
